@@ -1,0 +1,12 @@
+/* src/Nav.module.css */
+.navbar {
+  background-color: #343a40 !important;
+}
+
+.navbar-brand, .nav-link {
+  color: #fff !important;
+}
+
+.nav-link:hover {
+  color: #d1d1d1 !important;
+}
